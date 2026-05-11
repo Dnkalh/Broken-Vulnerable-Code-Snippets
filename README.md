@@ -2,6 +2,6 @@
 
 A collection of vulnerable code snippets taken form around the internet. Snippets taken from various blog posts, books, resources etc. No Copyright Infringement Intended
 
+Trigger scan after updating Semgrep token
 
 **Note: This is not a good benchmark for testing static analysis tools, they are broken code snippets, with missing imports and missing files.** 
-Trigger scan after updating Semgrep token
